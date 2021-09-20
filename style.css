@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+h3{
+    margin: 2pt;
+}
+
+.container{
+    width: 220pt;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.num1, .num2{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 2pt;
+  font-size: 25pt;
+  box-sizing: border-box;
+}
+
+.button{
+    width: 50pt;
+    height: 50pt;
+    font-size: 25pt;
+    margin: 2pt;
+    cursor: pointer;
+}
+
+.buttonclear{
+    width: 50pt;
+    height: 105pt;
+    font-size: 25pt;
+    margin: 2pt;
+    cursor: pointer;
+}
+
+.result {
+    width: 220pt;
+    font-size: 25pt;
+    margin: 2pt;
+    resize: none;
+}
